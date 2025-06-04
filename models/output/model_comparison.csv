@@ -1,0 +1,6 @@
+Comment ID,Example,Ground Truth,Generative Model,Discriminative Model
+97449786.0,sdata newlinetokennobody cares enough going ps exc...,0,0,0
+445330734.0,sdata newlinetokennewlinetoken australian touring ...,1,1,1
+39247728.0,sdata newlinetokennewlinetokenimage copyright prob...,1,1,1
+600506659.0,sdata newlinetokeni blocked yalladar indefinitely ...,1,1,1
+114316836.0,sdata march utcnewlinetoken long section jewish re...,0,0,0
